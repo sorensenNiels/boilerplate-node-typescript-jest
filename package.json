@@ -1,7 +1,7 @@
 {
-  "name": "node-typescript-boilerplate",
+  "name": "boilerplate-node-typescript-jest",
   "version": "0.0.0",
-  "description": "Minimalistic boilerplate to quick-start Node.js development in TypeScript.",
+  "description": "Opinonated boilerplate to quick-start Node.js development in TypeScript.",
   "engines": {
     "node": ">= 10.13 <11"
   },
@@ -26,7 +26,7 @@
     "test": "jest --coverage",
     "test:watch": "jest --watch"
   },
-  "author": "Jakub Synowiec <github@jakubsynowiec.info>",
+  "author": "Niels P. Sorensen github@sornesenniels - Inspired by Jakub Synowiec <github@jakubsynowiec.info>",
   "license": "Apache-2.0",
   "dependencies": {
     "tslib": "~1.9.3"

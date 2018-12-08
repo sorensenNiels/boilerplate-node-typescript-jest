@@ -9,7 +9,7 @@
 [![Star on GitHub][github-star-badge]][github-star]
 [![Tweet][twitter-badge]][twitter]
 
-# node-typescript-boilerplate
+# boilerplateNodeTypeScriptJest
 
 Minimalistic boilerplate to jump-start a [Node.js][nodejs] project in [TypeScript][typescript] [3.2][typescript-32].
 
@@ -29,16 +29,16 @@ What's included:
 This project is intended to be used with the latest Active LTS release of [Node.js][nodejs]. To start, just clone the repository with following commands:
 
 ```sh
-git clone https://github.com/jsynowiec/node-typescript-boilerplate
-cd node-typescript-boilerplate
+git clone https://github.com/sorensenNiels/boilerplateNodeTypeScriptJest.git
+cd boilerplateNodeTypeScriptJest
 npm install
 ```
 
 or download and unzip current `master` branch:
 
 ```sh
-wget https://github.com/jsynowiec/node-typescript-boilerplate/archive/master.zip -O node-typescript-boilerplate
-unzip node-typescript-boilerplate.zip && rm node-typescript-boilerplate.zip
+wget https://github.com/sorensenNiels/boilerplateNodeTypeScriptJest.git/archive/master.zip -O boilerplateNodeTypeScriptJest
+unzip boilerplateNodeTypeScriptJest.zip && rm boilerplateNodeTypeScriptJest.zip
 ```
 
 Now start adding your code in the `src` and unit tests in the `__tests__` directories. Have fun and build amazing things 🚀
@@ -59,29 +59,29 @@ This is **optional**, but if you want to learn how to write JavaScript tests for
 + `test:watch` - interactive watch mode to automatically re-run tests
 
 ## License
-Licensed under the APLv2. See the [LICENSE](https://github.com/jsynowiec/node-typescript-boilerplate/blob/master/LICENSE) file for details.
+Licensed under the APLv2. See the [LICENSE](https://github.com/sorensenNiels/boilerplateNodeTypeScriptJest.git/blob/master/LICENSE) file for details.
 
 [ts-badge]: https://img.shields.io/badge/TypeScript-3.2-blue.svg
 [nodejs-badge]: https://img.shields.io/badge/Node.js->=%2010.13-blue.svg
 [nodejs]: https://nodejs.org/dist/latest-v10.x/docs/api/
-[travis-badge]: https://travis-ci.org/jsynowiec/node-typescript-boilerplate.svg?branch=master
-[travis-ci]: https://travis-ci.org/jsynowiec/node-typescript-boilerplate
+[travis-badge]: https://travis-ci.org/jsynowiec/boilerplateNodeTypeScriptJest.svg?branch=master
+[travis-ci]: https://travis-ci.org/jsynowiec/boilerplateNodeTypeScriptJest
 [typescript]: https://www.typescriptlang.org/
 [typescript-32]: https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-2.html
 [license-badge]: https://img.shields.io/badge/license-APLv2-blue.svg
-[license]: https://github.com/jsynowiec/node-typescript-boilerplate/blob/master/LICENSE
+[license]: https://github.com/sorensenNiels/boilerplateNodeTypeScriptJest.git/blob/master/LICENSE
 [prs-badge]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg
 [prs]: http://makeapullrequest.com
 [donate-badge]: https://img.shields.io/badge/$-support-green.svg
 [donate]: http://bit.ly/donate-js
-[github-watch-badge]: https://img.shields.io/github/watchers/jsynowiec/node-typescript-boilerplate.svg?style=social
-[github-watch]: https://github.com/jsynowiec/node-typescript-boilerplate/watchers
-[github-star-badge]: https://img.shields.io/github/stars/jsynowiec/node-typescript-boilerplate.svg?style=social
-[github-star]: https://github.com/jsynowiec/node-typescript-boilerplate/stargazers
-[twitter]: https://twitter.com/intent/tweet?text=Check%20out%20this%20Node.js%20TypeScript%20boilerplate!%20https://github.com/jsynowiec/node-typescript-boilerplate%20%F0%9F%91%8D
-[twitter-badge]: https://img.shields.io/twitter/url/https/jsynowiec/node-typescript-boilerplate.svg?style=social
+[github-watch-badge]: https://img.shields.io/github/watchers/jsynowiec/boilerplateNodeTypeScriptJest.svg?style=social
+[github-watch]: https://github.com/sorensenNiels/boilerplateNodeTypeScriptJest.git/watchers
+[github-star-badge]: https://img.shields.io/github/stars/jsynowiec/boilerplateNodeTypeScriptJest.svg?style=social
+[github-star]: https://github.com/sorensenNiels/boilerplateNodeTypeScriptJest.git/stargazers
+[twitter]: https://twitter.com/intent/tweet?text=Check%20out%20this%20Node.js%20TypeScript%20boilerplate!%20https://github.com/sorensenNiels/boilerplateNodeTypeScriptJest.git%20%F0%9F%91%8D
+[twitter-badge]: https://img.shields.io/twitter/url/https/jsynowiec/boilerplateNodeTypeScriptJest.svg?style=social
 [jest]: https://facebook.github.io/jest/
 [tslint]: https://palantir.github.io/tslint/
 [tslint-microsoft-contrib]: https://github.com/Microsoft/tslint-microsoft-contrib
-[wiki-js-tests]: https://github.com/jsynowiec/node-typescript-boilerplate/wiki/Unit-tests-in-plain-JavaScript
+[wiki-js-tests]: https://github.com/sorensenNiels/boilerplateNodeTypeScriptJest.git/wiki/Unit-tests-in-plain-JavaScript
 [prettier]: https://prettier.io
